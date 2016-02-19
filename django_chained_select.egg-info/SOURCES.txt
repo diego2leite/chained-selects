@@ -1,0 +1,9 @@
+chained_selects/__init__.py
+chained_selects/models.py
+chained_selects/urls.py
+chained_selects/views.py
+chained_selects/widgets.py
+django_chained_select.egg-info/PKG-INFO
+django_chained_select.egg-info/SOURCES.txt
+django_chained_select.egg-info/dependency_links.txt
+django_chained_select.egg-info/top_level.txt

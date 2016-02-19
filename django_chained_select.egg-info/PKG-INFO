@@ -1,0 +1,17 @@
+Metadata-Version: 1.1
+Name: django-chained-select
+Version: 0.1.1
+Summary: A django app to link two select fields together
+Home-page: http://github.com/RaD/django-chained-select
+Author: Ruslan Popov
+Author-email: ruslan.popov@gmail.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Environment :: Web Environment
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Topic :: Utilities
